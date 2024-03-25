@@ -1,4 +1,9 @@
+# Begginer Linux Mint Virtual Machine Installer
+
 Just run the batch file installer
 
-User: dev
-Pass: 1234
+### Linux Mint virtual machine credentials
+
+User: `dev`
+
+Pass: `1234`
